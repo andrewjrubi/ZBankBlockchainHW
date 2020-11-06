@@ -18,7 +18,7 @@
 
 #### This code will use the rpc port in your local machine to run the nodes as well as allowing the insecure unlock of the nodes. We use the 'sealer one enode address' in the node6 launch code to ensure the mining blocks connect with one another.
 
-#### The node password is 'marica' and the chain ID is '444'.
+#### The node password is 'supergucci' and the chain ID is '444'.
 
 #### Using MyCrypto we created a custom network called 'GucciNet' with the '444' chain ID, the URL: http://127.0.0.1:8545, and 'ETH' as the currency.
 
