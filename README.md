@@ -26,4 +26,4 @@
 
 #### Since our account is prefunded with test ETH, we can run a test transaction between our two accounts 'node5' to 'node6'.
 
-#### The screenshots folder shows our network code as well as a pending transaction of 100 ETH.
+#### The screenshots folder shows our network code as well as a pending transaction of 1000 ETH.
